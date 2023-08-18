@@ -3,9 +3,9 @@
 
 <strong>Principais características do aplicativo: </strong> 
 <ul><li>Linguagem de programação Java</li></ul>
-<ul><li>Cadastrar dados do cliente necessário para hospedagem no hotel Alura</li></ul>
-<ul><li>Calcular valor da reserva</li></ul>
-<ul><li>Receber pagamentos eletrônicos</li></ul>
+<ul><li>Cadastra dados do cliente necessário para hospedagem no hotel Alura</li></ul>
+<ul><li>Calcula valor da reserva</li></ul>
+<ul><li>Recebe pagamentos eletrônicos</li></ul>
 <ul><li>Possui integração segura com banco de dados SQL</li></ul>
 <hr>
 <P>Desafio aceito! Vou começar a construir a lógica do aplicativo... </P>
