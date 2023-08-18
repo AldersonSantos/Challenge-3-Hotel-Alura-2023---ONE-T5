@@ -1,6 +1,5 @@
 <center><h1> Challenge Hotel Alura 2023 ONE-T5</h1></center>
 <p>Esse desafio propõe a criação de um aplicativo capaz de fazer reservas automáticas para hospedar clientes no Hotel Alura.</p>
-
 <strong>Principais características do aplicativo: </strong> 
 <ul><li>Linguagem de programação Java</li></ul>
 <ul><li>Cadastra dados do cliente necessário para hospedagem no hotel Alura</li></ul>
