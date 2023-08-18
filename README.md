@@ -2,7 +2,7 @@
 <p>Esse desafio propõe a criação de um aplicativo capaz de fazer reservas automáticas para hospedar clientes no Hotel Alura.</p>
 <strong>Principais características do aplicativo: </strong> 
 <ul><li>Linguagem de programação Java</li></ul>
-<ul><li>Cadastra dados do cliente necessário para hospedagem no hotel Alura</li></ul>
+<ul><li>Cadastra dados do cliente necessário para hospedagem no Hotel Alura</li></ul>
 <ul><li>Calcula valor da reserva</li></ul>
 <ul><li>Recebe pagamentos eletrônicos</li></ul>
 <ul><li>Possui integração segura com banco de dados SQL</li></ul>
