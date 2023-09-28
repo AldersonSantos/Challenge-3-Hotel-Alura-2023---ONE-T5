@@ -15,13 +15,13 @@
 <ul><li>c3p0-0.9.5.4.jar</li></ul>
 <ul><li>mchange-commons-java-0.2.16.jar</li></ul>
 <ul><li>myssql-connector-java-8.0.17.jar </li></ul>
+<strong>Dados login:</strong> 
+<ul><li>Usuário: admin </li></ul>
+<ul><li>Senha: admin </li></ul>
 <hr>
-<p>Gostei muito de fazer o projeto e integrar uma aplicação Java com um banco de dados SQL. A parte gráfica foi criado com pacote Java swing. Um script simples, o swing transforma em visual fantástico! </p>
-          <p>![image4](https://github.com/AldersonSantos/Challenge-3-Hotel-Alura-2023---ONE-T5/assets/131020135/85d8cb67-7459-44d1-8dbb-0f485a974f66)</p> 
-           ![image2](https://github.com/AldersonSantos/Challenge-3-Hotel-Alura-2023---ONE-T5/assets/131020135/4e5b2b65-aed8-424a-a70d-906c73f0cbd4)
-           ![image3](https://github.com/AldersonSantos/Challenge-3-Hotel-Alura-2023---ONE-T5/assets/131020135/0ec3f918-6de5-4199-b41c-b427c5315927)
-           ![image1](https://github.com/AldersonSantos/Challenge-3-Hotel-Alura-2023---ONE-T5/assets/131020135/7c876cc0-88ef-4c0d-b899-40817a1767f7)
-           ![image5](https://github.com/AldersonSantos/Challenge-3-Hotel-Alura-2023---ONE-T5/assets/131020135/aef3a1a9-a133-4962-a3b6-9ad931f7976f)
+<p>Gostei muito de fazer o projeto e integrar uma aplicação Java com um banco de dados SQL. A parte gráfica foi criado com pacote Java swing. Um script simples, o swing transforma em visual fantástico! </p>   
+<p> Curso de formação Java back-end do programa Oracle One em parceria com a escola de tecnologia Alura é excelente! Desejo continuar os estudos é melhor o código do aplicativo Hotel Alura. </p>
+
 
                                                              
 
