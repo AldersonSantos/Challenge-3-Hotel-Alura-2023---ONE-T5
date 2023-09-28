@@ -28,15 +28,15 @@ public class TelaHome extends JFrame implements ActionListener {
 	private JButton bHome1, bHome2;
 	private JFrame janelaHome;
 
-	private String url1 = "bg1_tela_inicial.png";// tela1
-	private String url2 = "bg2_tela_inicial.png";// tela2
+	private String url1 = "bg1_tela_inicial.png";
+	private String url2 = "bg2_tela_inicial.png";
 
-	private Integer divisorHome = 800;// 752
+	private Integer divisorHome = 800;
 
-	private Integer wImagemHome1 = 840;// 840
+	private Integer wImagemHome1 = 840;
 	private Integer hImagemHome1 = 600;
 
-	private Integer wImagemHome2 = 440;// 440
+	private Integer wImagemHome2 = 440;
 	private Integer hImagemHome2 = 600;
 	
 	private TelaLogin login;
@@ -102,7 +102,7 @@ public class TelaHome extends JFrame implements ActionListener {
 		janelaHome.add("Center", splitPaneH1);
 		
 	}
-    //
+  
 
 	protected void setJanelaHome(boolean janelaHome) {
 		this.janelaHome.setVisible(janelaHome);
