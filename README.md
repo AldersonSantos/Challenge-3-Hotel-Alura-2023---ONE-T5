@@ -17,9 +17,6 @@
 <ul><li>myssql-connector-java-8.0.17.jar </li></ul>
 <hr>
 <p>Gostei muito de fazer o projeto e integrar uma aplicação Java com um banco de dados SQL. A parte gráfica foi criado com pacote Java swing. Um script simples, o swing transforma em visual fantástico! </p>
-![image4](https://github.com/AldersonSantos/Challenge-3-Hotel-Alura-2023---ONE-T5/assets/131020135/93ca3403-1a4b-4ef0-ad9d-888de0203e49)
-![image2](https://github.com/AldersonSantos/Challenge-3-Hotel-Alura-2023---ONE-T5/assets/131020135/9948acd9-b09f-4f11-9f70-618a663a6e96)
-![image3](https://github.com/AldersonSantos/Challenge-3-Hotel-Alura-2023---ONE-T5/assets/131020135/b25fee19-fcc0-433f-8850-4933429e5200)
 
 
 <P>Desafio aceito! Vou começar a construir a lógica do aplicativo... </P>
