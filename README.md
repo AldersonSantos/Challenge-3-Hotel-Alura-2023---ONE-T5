@@ -4,7 +4,7 @@
 <ul><li>Linguagem de programação Java</li></ul>
 <ul><li>Cadastra dados do cliente necessário para hospedagem no Hotel Alura</li></ul>
 <ul><li>Calcula valor da reserva</li></ul>
-<ul><li>Recebe pagamentos eletrônicos</li></ul>
+<ul><li>Recebe pagamentos</li></ul>
 <ul><li>Possui integração segura com banco de dados SQL</li></ul>
 <hr>
 <P>Desafio aceito! Vou começar a construir a lógica do aplicativo... </P>
