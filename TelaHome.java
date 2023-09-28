@@ -15,10 +15,10 @@ import javax.swing.JPanel;
 import javax.swing.JSplitPane;
 
 public class TelaHome extends JFrame implements ActionListener {
-
-	/**
-	 * 
-	 */
+/**
+ * @author Alderson Santos
+ *
+ */
 	private static final long serialVersionUID = 3631128082545969319L;
 
 	private JSplitPane splitPaneH1;
@@ -41,7 +41,10 @@ public class TelaHome extends JFrame implements ActionListener {
 	
 	private TelaLogin login;
 	
-		
+	/**
+	 * configuracao do JFrame
+	 *
+ 	*/
 	protected void telaHome() {
 
 		// Jbutton
