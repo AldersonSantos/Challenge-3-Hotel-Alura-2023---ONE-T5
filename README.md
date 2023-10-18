@@ -18,8 +18,9 @@
 <strong>Dados login:</strong> 
 <ul><li>Usuário: admin </li></ul>
 <ul><li>Senha: admin </li></ul>
+<p>Obs.:<strong>Processo de login no aplicativo e bancos de dados são gerenciados por uma aplicação externa (banco de dados MySQL), e não estará disponível a partir de 17/10/2023. O aplicativo Hotel Alura foi construído para fins de estudos, para reutilizar o código, será necessário criar um banco de dados para armazenar os hospedes.</strong></p>
 <hr>
-<p>Gostei muito de fazer o projeto e integrar uma aplicação Java com um banco de dados SQL. A parte gráfica foi criado com pacote Java swing. Um script simples, o swing transforma em visual fantástico! </p>   
+<p>Gostei muito de fazer o projeto e integrar uma aplicação Java com um banco de dados SQL. A parte gráfica foi criado com pacote Java swing. Um script simples, o swing transforma em visual fantástico!</p> 
 <p> Curso de formação Java back-end do programa Oracle One em parceria com a escola de tecnologia Alura é excelente! Desejo continuar os estudos é melhor o código do aplicativo Hotel Alura. </p>
 
 
